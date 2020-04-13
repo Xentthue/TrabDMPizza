@@ -1,8 +1,26 @@
-## Welcome to GitHub Pages
+## Sobre o Trabalho
 
-You can use the [editor on GitHub](https://github.com/Xentthue/TrabDispMov/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Trabalho da materia de Computação para Dispositivos Moveis [Unifacs-Bahia](unifacs.br) do professor [Aristoteles Esteves Marçal da Silva](https://github.com/totemarcal) Com intuito de desenvolver um aplicativo simulando o procedimento padrão de cliente e desenvolvedor e utilizando Reactive Native como linguagem.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+### O aplicativo
+
+O app DevPizza é um sistema de delivery criado para acabar com as grandes demoras nos pedidos de pizza e levar sua pizzaria para o espaço digital facilitando e agilizando pedidos.
+
+![ImagemPizza1](https://i.imgur.com/lRau4rU.jpg)
+
+
+### Introdução
+
+O sistema possue um sistema de login e de cadastro do usuário facilitando o seu pedidos. Uma aba de promoção das pizzarias para o usuário sempre está recebendo novas promoções, além de ter um sistema de compras rápido com métodos de pagamento e tempo médio de espera.
+
+
+## O prototipo
+
+### Home/Login/Criação de conta
+
+![Hpme](https://i.imgur.com/HmO0424.png)![Login](https://i.imgur.com/o4exDSZ.png)![Criarconta](https://i.imgur.com/Z3QmWVU.png)
 
 ### Markdown
 
