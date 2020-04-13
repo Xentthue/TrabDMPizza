@@ -18,9 +18,16 @@ O sistema possue um sistema de login e de cadastro do usuário facilitando o seu
 
 ## O prototipo
 
-### Home/Login/Criação de conta
+### Home/Login/Criação de conta/Promoções
+_1. 2 e 3_
+![Hpme/login/criarconta](https://i.imgur.com/HsbJXxz.png)
+**O sistema possue um sistema de login, login anônimo e de cadastro do usuário facilitando o seu pedidos.**
 
-![Hpme](https://i.imgur.com/HmO0424.png)![Login](https://i.imgur.com/o4exDSZ.png)![Criarconta](https://i.imgur.com/Z3QmWVU.png)
+_4_
+
+![Promoções](https://i.imgur.com/wb8cYU1.png)
+
+**Uma aba de promoção para o usuário assim que ele entrar no aplicativo saber das promoções oferecidas.**
 
 ### Markdown
 
