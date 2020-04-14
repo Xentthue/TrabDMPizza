@@ -75,6 +75,19 @@ _10-Meus pedidos_
 ## Sprints
 O projeto utiliza-se de dois Sprints o primeiro sendo dia **12/05** e o segundo **09/06** onde finalizaremos o ultimo sprint com a entrega do aplicativo.
 
+### Sprint 01
+- Criação do Login/Criação de conta/Home
+- Promoções 
+- Cardapio
+
+### Sprint 02
+- Menu Principal
+- Detalhes do produto
+- Configuração de pedidos 
+- Pagamento e suas configurações
+- Area Meus Pedidos
+- Configurações de conta
+
 ![Sprint](https://i.imgur.com/CrsCDfY.jpg)
 
 **Link Para o Trello:** [Trello](https://trello.com/b/uCsaFrqn/trabalho-dispositivos-moveis-pizza-app)
