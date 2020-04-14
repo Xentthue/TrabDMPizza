@@ -48,17 +48,29 @@ _6-Cardapio_
 
 ### Detalhes/Ajuste do pedido/pagamento/meus pedidos
 
+_7-Detalhes_
+
 ![Detalhes](https://i.imgur.com/vStKSgi.png)
 
+**xxxx**
+
+_8-Ajuste do Pedido_
 
 ![ajustepedido](https://i.imgur.com/nS6VyIf.png)
 
+**xxxx**
+
+_9-Pagamento_
 
 ![pagamentoeconfirmando](https://i.imgur.com/2CrMr6o.png)
 
+**xxxx**
+
+_10-Meus pedidos_
 
 ![meuspedidos](https://i.imgur.com/YcPtUnG.png)
 
+**xxxx**
 
 ### Markdown
 
