@@ -72,6 +72,10 @@ _10-Meus pedidos_
 
 **xxxx**
 
+## Sprints
+O projeto utiliza-se de dois Sprints o primeiro sendo dia **12/05** e o segundo **09/06** onde finalizaremos o ultimo sprint com a entrega do aplicativo.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
