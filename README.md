@@ -21,12 +21,12 @@ O sistema possue um sistema de login e de cadastro do usuário facilitando o seu
 
 ## O prototipo
 
-### Home/Login/Criação de conta
+### Home/Login/Criação de conta.
 _1. 2 e 3_
 ![Hpme/login/criarconta](https://i.imgur.com/HsbJXxz.png)
 **O sistema possue um sistema de login, login anônimo e de cadastro do usuário facilitando o seu pedidos.**
 
-### Promoções/menu principal/cardapio
+### Promoções/menu principal/cardapio.
 
 _4-Promoções_
 
@@ -38,7 +38,7 @@ _5-Menu Principal_
 
 ![Menu](https://i.imgur.com/xIiZALY.png)
 
-**Aba na lateral possibilitando o facil acesso ao menu para o usuario**
+**Aba na lateral possibilitando o facil acesso ao menu para o usuario.**
 
 _6-Cardapio_
 
@@ -46,64 +46,35 @@ _6-Cardapio_
 
 **Uma tela com o cardapio para o usuario ver avaliar todas as opções e escolher para ver mais detalhes.**
 
-### Detalhes/Ajuste do pedido/pagamento/meus pedidos
+### Detalhes/Ajuste do pedido/pagamento/meus pedidos.
 
 _7-Detalhes_
 
 ![Detalhes](https://i.imgur.com/vStKSgi.png)
 
-**xxxx**
+**Uma tela onde o usuario tem todas as informações sobre o produto para ele decidir antes de começar a compra.**
 
 _8-Ajuste do Pedido_
 
 ![ajustepedido](https://i.imgur.com/nS6VyIf.png)
 
-**xxxx**
+**Uma tela para preparo do pedido para o usuario escolher do jeito que ele preferir a sua pizza e outras opções como acompanhamentos.**
 
 _9-Pagamento_
 
 ![pagamentoeconfirmando](https://i.imgur.com/2CrMr6o.png)
 
-**xxxx**
+**Uma tela onde o usuario pode checar antes de efetuar o pagamento com a descrição do seu pedido e com métodos de pagamento no cartão ou no dinheiro.**
 
 _10-Meus pedidos_
 
 ![meuspedidos](https://i.imgur.com/YcPtUnG.png)
 
-**xxxx**
+**Tela onde o usuario poderá checar seus pedidos com o tempo medio de entrega e status do pedido.**
 
 ## Sprints
 O projeto utiliza-se de dois Sprints o primeiro sendo dia **12/05** e o segundo **09/06** onde finalizaremos o ultimo sprint com a entrega do aplicativo.
 
+![Sprint](https://i.imgur.com/CrsCDfY.jpg)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xentthue/TrabDispMov/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Link Para o Trello:** [Trello](https://trello.com/b/uCsaFrqn/trabalho-dispositivos-moveis-pizza-app)
