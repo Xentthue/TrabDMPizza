@@ -2,7 +2,10 @@
 
 Trabalho da materia de Computação para Dispositivos Moveis [Unifacs-Bahia](unifacs.br) do professor [Aristoteles Esteves Marçal da Silva](https://github.com/totemarcal) Com intuito de desenvolver um aplicativo simulando o procedimento padrão de cliente e desenvolvedor e utilizando Reactive Native como linguagem.
 
-
+**Componentes:**
+- Igor Dias
+- Gabriel Souza
+- Paulo Roberto
 
 ### O aplicativo
 
@@ -43,6 +46,18 @@ _6-Cardapio_
 
 **Uma tela com o cardapio para o usuario ver avaliar todas as opções e escolher para ver mais detalhes.**
 
+### Detalhes/Ajuste do pedido/pagamento/meus pedidos
+
+![Detalhes](https://i.imgur.com/vStKSgi.png)
+
+
+![ajustepedido](https://i.imgur.com/nS6VyIf.png)
+
+
+![pagamentoeconfirmando](https://i.imgur.com/2CrMr6o.png)
+
+
+![meuspedidos](https://i.imgur.com/YcPtUnG.png)
 
 
 ### Markdown
