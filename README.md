@@ -28,17 +28,22 @@ _1. 2 e 3_
 _4-Promoções_
 
 ![Promoções](https://i.imgur.com/wb8cYU1.png)
+
 **Uma tela de promoção para o usuário assim que ele entrar no aplicativo saber das promoções oferecidas.**
 
 _5-Menu Principal_
 
 ![Menu](https://i.imgur.com/xIiZALY.png)
+
 **Aba na lateral possibilitando o facil acesso ao menu para o usuario**
 
 _6-Cardapio_
 
 ![Cardapio](https://i.imgur.com/nmLp3Hx.png)
+
 **Uma tela com o cardapio para o usuario ver avaliar todas as opções e escolher para ver mais detalhes.**
+
+
 
 ### Markdown
 
